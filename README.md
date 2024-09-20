@@ -7,7 +7,8 @@ Here I will show some of these plot.
 - Feel free to clone this repository if you want.
 
 The script reads a .xml file, that can be modified accordingly.
-(I have to give credit to https://cv.franciscoyira.com/project/music-python-r/ for the part related to exporting the .xml file.)
+
+(I have to give credit to [francisco yira](https://cv.franciscoyira.com/project/music-python-r/) for the part related to exporting the .xml file.)
 
 You will need to install some packages for the data visualization/analysis parts.
 
