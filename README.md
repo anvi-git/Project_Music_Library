@@ -1,14 +1,13 @@
 # Welcome to this readme
 ## This repository contains a Jupyter Notebook to help you create and visualize beautiful plots with Matplotlib and Seaborn for your Music Library.
 
-I have to give credit to https://cv.franciscoyira.com/project/music-python-r/ for the part related to exporting the .xml file.
-
 Here I will show some of these plot. 
 
 - Feel free to customize it for your purposes. 
 - Feel free to clone this repository if you want.
 
 The script reads a .xml file, that can be modified accordingly.
+(I have to give credit to https://cv.franciscoyira.com/project/music-python-r/ for the part related to exporting the .xml file.)
 
 You will need to install some packages for the data visualization/analysis parts.
 
