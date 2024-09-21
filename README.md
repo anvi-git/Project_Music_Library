@@ -27,4 +27,7 @@ First plot! This will show the number of pages
 ```
 ![First hist](notebook_images/top_10_artists_histogram.png)
 ```python
-
+# plot a histogram showing some info about the number of tracks, albums and artists
+```
+![Second hist](notebook_images/info_histogram.png)
+```python
